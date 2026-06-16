@@ -355,6 +355,9 @@ import './contrib/folding/browser/folding.contribution.js';
 // Limit Indicator
 import './contrib/limitIndicator/browser/limitIndicator.contribution.js';
 
+// Plugin Health Bar (Extension Performance Monitor)
+import './contrib/pluginHealth/browser/pluginHealth.contribution.js';
+
 // Inlay Hint Accessibility
 import './contrib/inlayHints/browser/inlayHintsAccessibilty.js';
 
